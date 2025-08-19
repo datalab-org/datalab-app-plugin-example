@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v0.1.0-16-ga014464
+_commit: v0.2.0
 _src_path: git@github.com:datalab-org/datalab-app-plugin-template
 author_email: dev@datalab-org.io
 author_fullname: datalab developers
